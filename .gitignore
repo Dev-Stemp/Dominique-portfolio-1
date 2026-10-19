@@ -1,0 +1,8 @@
+git rm -r --cached node_modules
+git rm -r --cached .next
+# dependencies
+/node_modules
+
+# next.js
+/.next/
+/out/
